@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+
+# Data and model files
+*.csv
+*.zip
+*.pkl
+*.h5
